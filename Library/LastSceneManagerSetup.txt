@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Escenas/Comunicacion.unity
+- path: Assets/Escenas/Jerarquias.unity
   isLoaded: 1
   isActive: 1
