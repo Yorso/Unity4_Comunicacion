@@ -51,6 +51,8 @@
      <Compile Include="Assets\Scripts\MiComponente.cs" />
      <Compile Include="Assets\Scripts\Pared.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\Transformaciones.cs" />
+     <Compile Include="Assets\Scripts\UnObjeto.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
