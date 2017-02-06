@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Escenas/Jerarquias.unity
+- path: Assets/Escenas/Colliders.unity
   isLoaded: 1
   isActive: 1

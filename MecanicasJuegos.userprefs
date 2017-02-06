@@ -1,14 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Jerarquias.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Energia.cs">
     <Files>
-      <File FileName="Assets/Scripts/Pared.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Player.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Mecanica1.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/MiComponente.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/UnObjeto.cs" Line="14" Column="67" />
-      <File FileName="Assets/Scripts/Transformaciones.cs" Line="22" Column="32" />
-      <File FileName="Assets/Scripts/Jerarquias.cs" Line="16" Column="33" />
+      <File FileName="Assets/Scripts/Energia.cs" Line="14" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
